@@ -1,4 +1,4 @@
 Repositório criado como parte da 
 disciplina Linguagens de programação,
 ministrada pelo professor
-Grabriel Alves
+Gabriel Alves
