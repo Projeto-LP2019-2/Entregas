@@ -19,7 +19,8 @@ Utilizamos o [**Python**](https://www.python.org/) para análise e tratamento do
 
 - [**Wenderson Leonardo**](https://github.com/wendersonleonardo) - "**wendersonleonardo**" - _wenderson359@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/wenderson.gif "E aí, eu sou o Wenderson >.<")
 
-- [**Junior Costa**](https://github.com/preencher) - "**preencher**" - _preencher_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/junior.gif "Mano, eu sou o Júnior! :D")
+- [**Junior Costa**](https://github.com/JuniorBrowser
+) - "**JuniorBrowser**" - __    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/junior.gif "Mano, eu sou o Júnior! :D")
 
 
 
