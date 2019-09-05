@@ -7,7 +7,7 @@ Este repositório consiste em uma análise do desempenho das unidades de saúde 
 Utilizamos o [**Python**](https://www.python.org/) para análise e tratamento dos dados, incluindo a ferramenta [**Pandas**](https://pandas.pydata.org/).
 
 
-### [Visite nosso site](http://www.google.com)
+### [Visite nosso site](https://sites.google.com/view/analise-medica/p%C3%A1gina-inicial)
 
 ### Clica aqui para conferir nosso [Artigo em Latex](https://www.overleaf.com/read/hgtgvxbfyywk  )
 
