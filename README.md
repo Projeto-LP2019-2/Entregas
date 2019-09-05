@@ -13,17 +13,17 @@ Utilizamos o [**Python**](https://www.python.org/) para análise e tratamento do
 
 ## Membros
 
-- [**John Elyson**](https://github.com/JohnElyson) - "**JohnElyson**" - _johnelyson@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/wenderson.gif "Olá! Eu sou o John :)")
+- [**John Elyson**](https://github.com/JohnElyson) - "**JohnElyson**" - _johnelyson@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/wenderson.gif "Olá! Eu sou o John :)")
 
-- [**José Fernando**](https://github.com/jfernandobsmic) - "**jfernandobsmic**" - _josefernandob@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/wenderson.gif "Eu sou o Fernando :P")
+- [**José Fernando**](https://github.com/jfernandobsmic) - "**jfernandobsmic**" - _josefernandob@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/wenderson.gif "Eu sou o Fernando :P")
 
-- [**Wenderson Leonardo**](https://github.com/wendersonleonardo) - "**wendersonleonardo**" - _wenderson359@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/wenderson.gif "E aí, eu sou o Wenderson >.<")
+- [**Wenderson Leonardo**](https://github.com/wendersonleonardo) - "**wendersonleonardo**" - _wenderson359@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/wenderson.gif "E aí, eu sou o Wenderson >.<")
 
 - [**Junior Costa**](https://github.com/JuniorBrowser
-) - "**JuniorBrowser**" - __    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/wenderson.gif "Mano, eu sou o Júnior! :D")
+) - "**JuniorBrowser**" - __    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/wenderson.gif "Mano, eu sou o Júnior! :D")
 
 - [**João Lucas**](https://github.com/jlcarruda
-) - "**JLCArruda**" - _jlcarruda3@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/Metadados/wenderson.gif "EAE man, João aqui <3")
+) - "**JLCArruda**" - _jlcarruda3@gmail.com_    ![alt text](https://github.com/Projeto-LP2019-2/Entregas/blob/Metadados/wenderson.gif "EAE man, João aqui <3")
 
 
 E aqui você poderá ver os nossos [**COLABORADORES <3**](https://github.com/orgs/Projeto-LP2019-2/outside-collaborators)
