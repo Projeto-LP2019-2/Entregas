@@ -9,7 +9,7 @@ Utilizamos o [**Python**](https://www.python.org/) para análise e tratamento do
 
 ### [Visite nosso site](http://www.google.com)
 
-### Clica aqui para conferir nosso [Artigo em Latex](https://www.overleaf.com/7797929571zrjqyrrjpnds)
+### Clica aqui para conferir nosso [Artigo em Latex](https://www.overleaf.com/read/hgtgvxbfyywk  )
 
 ## Membros
 
