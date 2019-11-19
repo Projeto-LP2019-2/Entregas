@@ -191,7 +191,18 @@ def tratar_dataset_all(name):
     dataset = dataset_tratar_sms_received(dataset)
     return dataset
 
-def salvar_dataset(name,dataset,limit):
+def compararNumero(x,y):
+    return x == y
+
+def percent(x,y):
+    return (x/y)*100
+
+def limitarCasasDecimais(x,n,sep='.'):
+    numSplit = str(x).split(sep)
+    return float(numSplit[0]+'.'+numSplit[1][:n])
+
+
+def salvar_dataset(name,dataset,limitNumber=None,limitPercent=None):
     texto = ''
     texto = texto + 'PatientId,AppointmentID,Gender,ScheduledDay,AppointmentDay,Age,Neighbourhood,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,No-show' + '\n'
     linha_str = ''
@@ -215,19 +226,19 @@ def salvar_dataset(name,dataset,limit):
         texto = texto + linha_str
         concluido += 1
         print(str((concluido/len(dataset['linhas']))*100)[0:4] + '%')
-        print(linha_str)
-        if(concluido == limit):
-            break
+        if limitNumber:
+            if compararNumero(concluido,limitNumber):
+                break
+        elif limitPercent:
+            if compararNumero(limitarCasasDecimais(percent(concluido,len(dataset['linhas'])),2),limitPercent):
+                break
     save(name,texto)
 
-salvar_dataset('noshowappointments_tratado.csv',tratar_dataset_all('noshowappointments.csv'),50)
-
-
-
-
-
-
-
+lerDataSet = 'noshowappointments.csv'
+arquivoDestino = 'noshowappointments_tratado.csv'
+#limitNumber =
+limitPercent = 0.56
+salvar_dataset(arquivoDestino,tratar_dataset_all(lerDataSet),limitPercent=limitPercent)
 
 
 
