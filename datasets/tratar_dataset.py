@@ -233,19 +233,3 @@ def salvar_dataset(name,dataset,limitNumber=None,limitPercent=None):
             if compararNumero(limitarCasasDecimais(percent(concluido,len(dataset['linhas'])),2),limitPercent):
                 break
     save(name,texto)
-
-lerDataSet = 'noshowappointments.csv'
-arquivoDestino = 'noshowappointments_tratado.csv'
-#limitNumber =
-limitPercent = 0.56
-salvar_dataset(arquivoDestino,tratar_dataset_all(lerDataSet),limitPercent=limitPercent)
-
-
-
-
-
-
-
-
-
-
