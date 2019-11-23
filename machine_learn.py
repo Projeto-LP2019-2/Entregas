@@ -82,6 +82,15 @@ def tratarDataset():
     limitNumber    = 200
     limitPercent   = None
     salvar_dataset(arquivoDestino,tratar_dataset_all(arquivoOrigem),limitNumber=limitNumber,limitPercent=limitPercent)
+    
+def separar():
+    url = "datasets/noshowappointments_tratado.csv"
+    dataset = pd.read_csv(url)
+    
+    sim = dataset.loc[dataset['No-show'] == 'Yes']
+    nao = dataset.loc[dataset['No-show'] == 'No']
+
+    return sim, nao
 
 tratarDataset()
 run()
